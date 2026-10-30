@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/upasanaX">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=Full+Stack+Web+Developer;AI+%26+Computer+Vision+Engineer;Building+KrishiKavach+for+Smart+India+Hackathon+'26;Passionate+Problem+Solver+%26+Open+Source+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=818CF8&center=true&vCenter=true&width=720&lines=Full+Stack+Web+Developer;AI+%26+Computer+Vision+Enthusiast;Undergraduate+B.Tech+CSE+Student;Building+Intelligent+Real-World+Solutions;Passionate+Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -22,7 +22,7 @@
       <img src="https://komarev.com/ghpvc/?username=upasanaX&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
     </a>
     <a href="https://github.com/upasanaX?tab=repositories">
-      <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI-059669?style=for-the-badge" alt="Focus" />
+      <img src="https://img.shields.io/badge/Status-Undergrad%20B.Tech%20CSE-059669?style=for-the-badge" alt="Status" />
     </a>
   </p>
 
@@ -35,124 +35,128 @@
 ```yaml
 name: Upasana Roy
 pronouns: She / Her
-degree: B.Tech in Computer Science & Engineering (CSE)
+current_status: Undergraduate B.Tech Student (Computer Science & Engineering)
 institution: RCC Institute of Information Technology (RCCIIT), Kolkata
 role: Full Stack Web Developer & AI / Machine Learning Enthusiast
-current_focus:
-  - Scalable Web Architectures (React 19, Next.js 16, TypeScript, FastAPI, Node.js)
+interests:
+  - Solo Full-Stack Software Engineering (React 19, Next.js 16, TypeScript, Node.js)
   - Applied AI & Computer Vision (YOLOv8s, SORT Tracking, Kalman Filters, NLP)
-  - Agri-Tech Disaster Mitigation & Real-Time Geospatial Systems
-passions: Building high-impact solutions that solve real-world community problems
-motto: "Transforming ambitious ideas into resilient, production-ready code 🚀"
+  - Real-Time Communication & Telemetry (WebSockets, FastAPI, Flask)
+passions: Building creative, end-to-end, and production-ready applications from scratch
+motto: "Transforming curious ideas into resilient, user-friendly software 🚀"
 ```
+
+> 👋 I am an undergraduate **B.Tech Computer Science & Engineering student** with an intense focus on building hands-on software systems. Whether designing real-time deep learning tracking pipelines, architecting full-stack web platforms, or building interactive user interfaces, I love taking ideas from concept to a polished, working product.
 
 ---
 
-### 🏆 Spotlight Projects & Real-World Contributions
+### 🌟 Featured Solo Projects
+
+> Projects architected, designed, and coded independently from scratch — showcasing full-stack capabilities, asynchronous systems, and applied AI.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌾 KrishiKavach (कृषिकवच)</h3>
-      <p align="center">
-        <b>Smart India Hackathon (SIH 2026) — National Agrotech Platform</b>
-      </p>
-      <p align="center">
-        <a href="https://github.com/upasanaX/SIH2026_TechBrats">
-          <img src="https://img.shields.io/badge/View_Repository-SIH2026__TechBrats-14532D?style=for-the-badge&logo=github" alt="SIH2026_TechBrats Repo" />
-        </a>
-      </p>
-      <p>
-        A village- and Panchayat-accurate agro-meteorological forecasting & direct farmer-to-consumer marketplace platform.
-      </p>
-      <ul>
-        <li>Downscales 25–50 km broad forecasts to <b>2.5 km micro-grids</b> using spatial XGBoost modeling.</li>
-        <li>Proactive 6–12h alerts against cloudbursts, waterlogging & thermal shocks preventing crop loss.</li>
-        <li>Direct F2C marketplace eliminating middlemen with transparent profit margins.</li>
-        <li>Tri-channel accessibility: Modern Web App, 2G SMS, and multilingual IVR voice synthesis.</li>
-      </ul>
-      <p>
-        <b>Tech Stack:</b> <code>React 19</code> • <code>TypeScript</code> • <code>Vite</code> • <code>Tailwind CSS v4</code> • <code>FastAPI</code> • <code>Python</code> • <code>Recharts</code> • <code>Web Speech API</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎯 TrackOptic AI</h3>
-      <p align="center">
-        <b>Real-Time Computer Vision & Multi-Object Tracking Suite</b>
-      </p>
-      <p align="center">
+      <div align="center">
+        <span style="background-color:#00599C;color:white;padding:2px 8px;border-radius:12px;font-size:12px;font-weight:bold;">⭐ SOLO AI PROJECT</span>
+        <h3>🎯 TrackOptic AI</h3>
+        <p><b>Real-Time Computer Vision & Multi-Object Tracking Suite</b></p>
         <a href="https://github.com/upasanaX/CodeAlpha_AI">
           <img src="https://img.shields.io/badge/View_Repository-CodeAlpha__AI-00599C?style=for-the-badge&logo=github" alt="CodeAlpha_AI Repo" />
         </a>
-      </p>
+      </div>
+      <br/>
       <p>
-        An enterprise-grade deep learning vision tracking suite delivering real-time telemetry over WebSockets.
+        An end-to-end deep learning vision tracking suite delivering real-time telemetry over high-throughput WebSockets.
       </p>
       <ul>
-        <li><b>YOLOv8s Spatial Detection</b> combined with continuous <b>Kalman Filter</b> motion prediction.</li>
-        <li><b>Class-consistent SORT tracking</b> eliminating flickering and false identity shifts.</li>
-        <li><b>Virtual laser tripwire</b> crossing counter & multi-spectrum shaders (FLIR Thermal IR & Tactical NVG).</li>
-        <li>Full-duplex WebSocket stream achieving <b>30+ FPS</b> with sub-50ms inference latency.</li>
+        <li><b>YOLOv8s Spatial Detection</b> combined with continuous <b>Kalman Filter</b> motion state estimation.</li>
+        <li><b>Class-Consistent SORT Tracking</b> eliminating track fragmentation and identity shifts.</li>
+        <li><b>Virtual Laser Tripwire</b> bidirectional boundary counter & multi-spectrum vision (FLIR Thermal IR & Tactical NVG).</li>
+        <li>Full-duplex WebSocket stream running at <b>30+ FPS</b> with sub-50ms inference latency.</li>
       </ul>
       <p>
         <b>Tech Stack:</b> <code>Python</code> • <code>FastAPI</code> • <code>YOLOv8s</code> • <code>OpenCV</code> • <code>PyTorch</code> • <code>WebSockets</code> • <code>React 18</code> • <code>TypeScript</code>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Coursemate AI & LinguoFlow PRO</h3>
-      <p align="center">
-        <b>Applied NLP & Intelligent Conversational Systems</b>
-      </p>
-      <p align="center">
+      <div align="center">
+        <span style="background-color:#154F5B;color:white;padding:2px 8px;border-radius:12px;font-size:12px;font-weight:bold;">⭐ SOLO NLP & FULL-STACK AI</span>
+        <h3>🤖 Coursemate AI & LinguoFlow PRO</h3>
+        <p><b>Conversational AI & Multilingual Translation Engine</b></p>
         <a href="https://github.com/upasanaX/CodeAlpha_AI">
           <img src="https://img.shields.io/badge/Explore_AI_Suite-CodeAlpha__AI-154F5B?style=for-the-badge&logo=python" alt="CodeAlpha AI" />
         </a>
-      </p>
+      </div>
+      <br/>
       <p>
-        Full-stack AI solutions engineered during the <b>CodeAlpha Artificial Intelligence Internship</b>:
+        Two production-ready AI applications built during the <b>CodeAlpha Artificial Intelligence Internship</b>:
       </p>
       <ul>
-        <li><b>Coursemate AI:</b> Intelligent FAQ chatbot featuring NLTK normalization, Scikit-Learn TF-IDF cosine similarity scoring, SQLite persistent KB, and live admin retraining.</li>
-        <li><b>LinguoFlow PRO:</b> 24+ language neural translator with live speech-to-text dictation, 4 personality tones (Business, Poetic, Casual, Standard), and dynamic voice synthesis.</li>
+        <li><b>Coursemate AI:</b> Intelligent FAQ chatbot featuring NLTK text normalization, Scikit-Learn TF-IDF cosine similarity confidence scoring, SQLite persistent KB, and live admin retraining.</li>
+        <li><b>LinguoFlow PRO:</b> 24+ language neural translator with live speech-to-text dictation, 4 personality tones (Business, Poetic, Casual, Standard), and dynamic Web Speech TTS audio synthesis.</li>
       </ul>
       <p>
-        <b>Tech Stack:</b> <code>FastAPI</code> • <code>Flask</code> • <code>NLTK</code> • <code>Scikit-Learn</code> • <code>SQLite</code> • <code>JWT</code> • <code>React</code>
+        <b>Tech Stack:</b> <code>FastAPI</code> • <code>Flask</code> • <code>NLTK</code> • <code>Scikit-Learn</code> • <code>SQLite</code> • <code>JWT Auth</code> • <code>React</code> • <code>Tailwind CSS</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌍 TripMate Full-Stack Travel App</h3>
-      <p align="center">
-        <b>AI-Powered Travel Planning & Matchmaking Platform</b>
-      </p>
-      <p align="center">
+      <div align="center">
+        <span style="background-color:#4F46E5;color:white;padding:2px 8px;border-radius:12px;font-size:12px;font-weight:bold;">⭐ FULL-STACK APPLICATION</span>
+        <h3>🌍 TripMate Travel Companion</h3>
+        <p><b>AI-Powered Travel Discovery & Itinerary Planner</b></p>
         <a href="https://github.com/upasanaX/TripMate-Modified">
           <img src="https://img.shields.io/badge/View_Repository-TripMate--Modified-4F46E5?style=for-the-badge&logo=nextdotjs" alt="TripMate Repo" />
         </a>
-      </p>
+      </div>
+      <br/>
       <p>
-        A comprehensive travel discovery and companion matching platform engineered with modern full-stack technologies.
+        A comprehensive travel discovery platform with smart itinerary planning and interactive destination exploration.
       </p>
       <ul>
-        <li><b>AI Itinerary Generation:</b> Powered by Google Gemini & Groq AI for smart custom travel itineraries.</li>
-        <li><b>Interactive Geolocation:</b> Integrated Google Maps, Places database, and live OpenWeather API.</li>
-        <li><b>PostgreSQL & Prisma ORM:</b> Robust relational schema with JWT auth, password encryption, and Netlify edge deployment.</li>
+        <li><b>AI Itinerary Generation:</b> Powered by Google Gemini AI & Groq for custom day-by-day travel schedules.</li>
+        <li><b>Interactive Geolocation:</b> Integrated Google Maps, Places database, and live OpenWeather forecasts.</li>
+        <li><b>Relational Architecture:</b> PostgreSQL database with Prisma ORM, JWT auth, and Netlify edge deployment.</li>
       </ul>
       <p>
-        <b>Tech Stack:</b> <code>Next.js 16</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Prisma ORM</code> • <code>Gemini AI</code> • <code>Tailwind CSS</code>
+        <b>Tech Stack:</b> <code>Next.js 16</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Prisma ORM</code> • <code>Gemini AI</code> • <code>Tailwind CSS</code> • <code>Radix UI</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <span style="background-color:#14532D;color:white;padding:2px 8px;border-radius:12px;font-size:12px;font-weight:bold;">🤝 HACKATHON PROJECT</span>
+        <h3>🌾 KrishiKavach (कृषिकवच)</h3>
+        <p><b>Hyperlocal Agro-Meteorological Grid & Direct Marketplace</b></p>
+        <a href="https://github.com/upasanaX/SIH2026_TechBrats">
+          <img src="https://img.shields.io/badge/View_Repository-SIH2026__TechBrats-14532D?style=for-the-badge&logo=github" alt="SIH2026_TechBrats Repo" />
+        </a>
+      </div>
+      <br/>
+      <p>
+        A national digital agriculture platform developed with Team TechBrats for Smart India Hackathon.
+      </p>
+      <ul>
+        <li>Downscales 25–50 km broad forecasts to <b>2.5 km micro-grids</b> using spatial XGBoost modeling.</li>
+        <li>Proactive 6–12h warnings against cloudbursts, waterlogging & thermal shocks preventing crop loss.</li>
+        <li>Direct farmer-to-consumer marketplace with transparent margins.</li>
+        <li>Tri-channel accessibility: Modern Web App, 2G SMS, and multilingual IVR voice synthesis.</li>
+      </ul>
+      <p>
+        <b>Tech Stack:</b> <code>React 19</code> • <code>TypeScript</code> • <code>Vite</code> • <code>Tailwind CSS v4</code> • <code>FastAPI</code> • <code>Recharts</code> • <code>Web Speech API</code>
       </p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>🔍 View More Projects & Open Source Explorations (Click to expand)</b></summary>
+<summary><b>🔍 More Solo Projects & Web Explorations (Click to expand)</b></summary>
 <br>
 
-- 💳 **[GlobePay Frontend](https://github.com/upasanaX/Globepay-frontend)** — Modern Fintech global payment gateway & multi-currency transaction UI.
-- 💼 **[Oasis Infobyte Web Development Suite (OIBSIP)](https://github.com/upasanaX/OIBSIP)** — Complete Level 1 web projects repository featuring an interactive glassmorphic developer portfolio, ATS resume viewer, product landing page, and temperature converter pro.
-- ⚡ **[Express.js Architecture Exploration](https://github.com/upasanaX/express-rough)** — Hands-on deep dive into Node.js HTTP internals, middleware pipelining, and CVE security patches.
+- 💼 **[Oasis Infobyte Web Development Suite (OIBSIP)](https://github.com/upasanaX/OIBSIP)** — Solo Level 1 web projects repository featuring an interactive glassmorphic developer portfolio, ATS resume viewer, product landing page, and temperature converter pro.
+- 💳 **[GlobePay Frontend](https://github.com/upasanaX/Globepay-frontend)** — Solo-designed modern Fintech global payment gateway & multi-currency transaction UI.
+- ⚡ **[Express.js Architecture Exploration](https://github.com/upasanaX/express-rough)** — Hands-on deep dive into Node.js HTTP internals, middleware mechanics, and security patches.
 
 </details>
 
@@ -258,20 +262,18 @@ motto: "Transforming ambitious ideas into resilient, production-ready code 🚀"
 
 ### 🎓 Experience & Education
 
-- 🏛️ **B.Tech in Computer Science & Engineering (CSE)**
+- 🏛️ **B.Tech in Computer Science & Engineering (Undergraduate Student)**
   - *RCC Institute of Information Technology (RCCIIT), Kolkata*
-- 💡 **Smart India Hackathon (SIH 2026)**
-  - *Lead / Core Contributor — Team TechBrats (`KrishiKavach` Agro-tech platform)*
 - 💼 **Artificial Intelligence Intern** — *CodeAlpha*
-  - *Engineered `TrackOptic AI` (YOLOv8s tracking), `Coursemate AI` (NLP FAQ bot), and `LinguoFlow PRO` (24+ language translation suite).*
+  - *Engineered `TrackOptic AI` (YOLOv8s + SORT tracking), `Coursemate AI` (NLP FAQ bot), and `LinguoFlow PRO` (24+ language neural translation suite).*
 - 💻 **Web Development Intern** — *Oasis Infobyte (OIBSIP)*
-  - *Developed modern responsive web applications, glassmorphic portfolio architecture, and calculation tools.*
+  - *Solo-developed modern responsive web applications, glassmorphic portfolio architecture with embedded ATS resume, and web tools.*
 
 ---
 
 ### 🤝 Let's Connect & Collaborate!
 
-I'm always excited to collaborate on innovative open-source projects, hackathons, and AI / full-stack engineering challenges!
+I'm always excited to connect, explore innovative projects, and collaborate on exciting full-stack and applied AI engineering challenges!
 
 <div align="center">
   <a href="https://linkedin.com/in/upasana-roy-170328202">
@@ -293,5 +295,5 @@ I'm always excited to collaborate on innovative open-source projects, hackathons
   <!-- Animated Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,23,12,2&height=100&section=footer" width="100%" alt="Footer Wave" />
   
-  <sub>Designed with ❤️ by <b>Upasana Roy</b> • Built for real-world impact</sub>
+  <sub>Designed with ❤️ by <b>Upasana Roy</b> • Built with passion for software craftsmanship</sub>
 </div>
